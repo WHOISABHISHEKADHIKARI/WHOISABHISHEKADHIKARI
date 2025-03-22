@@ -38,7 +38,7 @@ I am passionate about creating meaningful solutions where **technology meets rea
 
 ### 📫 Let’s Connect:
 - 📧 Email: **abhishekdank1254@gmail.com**
-- 🌐 Website: [Krishi Himalaya](https://krishihimalaya.com)
+- 🌐 Website: [Himalaya krishi] (https://krishihimalaya.com)
 - 🔗 LinkedIn: [Abhishek Adheekari](https://www.linkedin.com/in/adheekariabhishek/)
 - 🐙 GitHub: [github.com/Abhishekdank1254](https://github.com/Abhishekdank1254)
 - Website: [Delta Engineering](https://deltaengineeringsolution.com)

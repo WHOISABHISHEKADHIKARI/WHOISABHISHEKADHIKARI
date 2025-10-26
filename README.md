@@ -43,7 +43,7 @@ With experience across **agriculture**, **software engineering**, **digital mark
 
 ## 📊 GitHub Insights  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WHOISABHISHEKADHIKARI&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WHOISABHISHEKADHIKARIlayout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WHOISABHISHEKADHIKARI_layout=compact&theme=tokyonight)  
 
 ---
 

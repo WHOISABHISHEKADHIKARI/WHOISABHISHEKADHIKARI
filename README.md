@@ -29,6 +29,7 @@ With experience across **agriculture**, **software engineering**, **digital mark
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![SEO](https://img.shields.io/badge/-SEO-4285F4?style=flat&logo=google&logoColor=white)
+![google)(google-site-verification: google0a0ab9d955d76755.html)
 
 ---
 

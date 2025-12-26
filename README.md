@@ -69,7 +69,8 @@ My long-term vision is to build **SEO-first, automation-driven, human-centered d
 - LinkedIn: **https://www.linkedin.com/in/adheekariabhishek/**  
 - GitHub: **https://github.com/Abhishekdank1254**  
 - Company: **https://deltaengineeringsolution.com**  
-- Hashtag Web Solution: **https://hashtagweb.com.np**
+- Hashtag Web Solution: **
+https://hashtagweb.com.np**
 
 ---
 

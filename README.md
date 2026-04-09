@@ -65,7 +65,6 @@ Founder of **100SEOTools**, a platform designed to simplify SEO for creators, ma
 - Full-stack architecture & development  
 - Automation workflows (API + Python)  
 - UI/UX design systems  
-- SEO-first product development  
 - Agri-tech innovation  
 
 ---

@@ -1,32 +1,7 @@
-# 👋 Abhishek Adhikari  
+# 👋 Abhishek Adhikari — Entrepreneur | Full-Stack Engineer | SEO Strategist | Agri-Tech Innovator
 
-### 🚀 Entrepreneur | Full-Stack Engineer | SEO Strategist | Agri-Tech Innovator  
+| 🌐 Profile | 🧠 Skills & Projects | 📊 Impact & Links |
+|-----------|----------------------|-------------------|
+| 📍 Nepal • SEO Intern @ Hashtag Web Solution • Founder: 100SEOTools • Builder of scalable systems in SEO, agri-tech & automation | 💻 React • Node.js • Python • PHP • MySQL • SEO (Technical + Growth + Performance) • UI/UX Systems • APIs • Automation • Projects: Himalaya Krishi (agri systems, livestock scaling), 100SEOTools (100+ SEO tools platform) | 📈 70 Lakhs → 2.5 Crores growth • 60K+ users • 30K+ downloads • 🌐 abhishekadhikari.com • linkedin.com/in/whoisabhishekadhikari • github.com/whoisabhishekadhikari • 📧 abhishekadhikari1254@gmail.com |
 
----
-
-## 🌐 Profile
-
-| 🚀 Identity | Full-Stack Engineer • SEO Strategist • Product Builder |
-|------------|----------------------------------------------------------|
-| 📍 Focus | Scalable systems, SEO platforms, automation & agri-tech |
-| 🏢 Current | SEO Intern — Hashtag Web Solution • Founder — 100SEOTools |
-
----
-
-## 🧠 Skills & Work
-
-| 💻 Tech Stack | ⚙️ Expertise | 🏗️ Projects |
-|--------------|--------------|-------------|
-| React, Node.js, Python, PHP, MySQL | Technical SEO, UI/UX Systems, Automation, Product Growth | Himalaya Krishi • 100SEOTools |
-
----
-
-## 📊 Impact & Connect
-
-| 📈 Growth | 🌍 Links | 🎯 Vision |
-|----------|----------|----------|
-| 70 Lakhs → 2.5 Crores • 60K+ users • 30K+ downloads | abhishekadhikari.com • LinkedIn • GitHub • Email | Build SEO-first, automation-driven systems that solve real-world problems |
-
----
-
-> 💡 *Execution beats ideas. Systems beat effort.*
+> 💡 Execution beats ideas. Systems beat effort.

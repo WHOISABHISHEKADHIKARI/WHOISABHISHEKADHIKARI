@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abhishek Adhikari
 
-### 🚀 Founder • SEO Engineer • Full-Stack Developer • Agri-Tech Builder
+### 🚀 Founder • Agri-Tech Builder
 
 > *"Execution beats ideas. Systems beat effort."*
 

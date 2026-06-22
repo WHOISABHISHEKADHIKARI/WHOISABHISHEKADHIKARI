@@ -47,7 +47,7 @@ Currently focused on: **Prompt Engineering** • **AgriTech** • **Full-Stack D
 
 - 🌐 **Website**: https://abhishekadhikari.com
 - 💼 **LinkedIn**: https://linkedin.com/in/whoisabhishekadhikari
-- 📧 **Email**: abhishekdank1254@gmail.com
+- 📧 **Email**: abhisheadhikari1254@gmail.com
 - 🐙 **GitHub**: https://github.com/WHOISABHISHEKADHIKARI
 
 ---

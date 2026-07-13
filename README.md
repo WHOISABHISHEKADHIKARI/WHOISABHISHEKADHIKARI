@@ -1,6 +1,6 @@
 # 👋 Abhishek Adhikari
 
-**Top Contributor • Prompt Engineer • AgriTech Builder from Nepal**
+** Prompt Engineer • AgriTech Builder from Nepal**
 
 > "Execution beats ideas."
 
@@ -58,4 +58,3 @@ Currently focused on: **Prompt Engineering** • **AgriTech** • **Full-Stack D
 
 ---
 
-**Top Contributor • Prompt Engineer • AgriTech Builder 🇳🇵**

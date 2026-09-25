@@ -2,6 +2,7 @@
 ### AI Trainer & Educator | Prompt Engineer | AgriTech Innovator
 
 > *"Empowering Nepal's workforce and developers through practical, production-ready AI education."*
+> Leading Contributor at 
  <p align="center">
  <a href="https://www.star-history.com/sickn33/agentic-awesome-skills">
   <picture>

@@ -2,16 +2,15 @@
 ### AI Trainer & Educator | Prompt Engineer | AgriTech Innovator
 
 > *"Empowering Nepal's workforce and developers through practical, production-ready AI education."*
-## Star History
-
-<a href="https://www.star-history.com/?repos=sickn33%2Fagentic-awesome-skills&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=sickn33/agentic-awesome-skills&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=sickn33/agentic-awesome-skills&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=sickn33/agentic-awesome-skills&type=date&legend=top-left" />
- </picture>
-</a>
----
+ <p align="center">
+ <a href="https://www.star-history.com/sickn33/agentic-awesome-skills">
+  <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/badge?repo=sickn33/agentic-awesome-skills&type=rank&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/badge?repo=sickn33/agentic-awesome-skills&type=rank" />
+   <img alt="Star History Rank" src="https://api.star-history.com/badge?repo=sickn33/agentic-awesome-skills&type=rank" />
+  </picture>
+ </a>
+</p>
 
 ### 🚀 About Me
 I am an **AI Trainer** and **Prompt Engineer** based in Nepal, dedicated to bridging the AI skills gap by delivering hands-on training, fine-tuning LLM workflows, and creating production-ready prompt architecture.

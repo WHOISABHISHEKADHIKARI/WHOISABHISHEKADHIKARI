@@ -1,12 +1,4 @@
-# 👋 Abhishek Adhikari
 
-### AI Trainer & Educator | Prompt Engineer | Open-Source Contributor | AgriTech Innovator
-
-> *Empowering students, professionals, developers, and organizations through practical, real-world AI education and production-ready AI systems.*
-
-### ⭐ Open-Source AI Contributor
-
-Leading contributor to **Agentic Awesome Skills**, an open-source collection of AI agent skills, system instructions, workflows, and reusable context engineering resources.
 
 <p align="center">
   <a href="https://www.star-history.com/sickn33/agentic-awesome-skills">
@@ -26,6 +18,18 @@ Leading contributor to **Agentic Awesome Skills**, an open-source collection of 
     </picture>
   </a>
 </p>
+
+# 👋 Abhishek Adhikari
+
+### AI Trainer & Educator | Prompt Engineer | Open-Source Contributor | AgriTech Innovator
+
+> *Empowering students, professionals, developers, and organizations through practical, real-world AI education and production-ready AI systems.*
+
+### ⭐ Open-Source AI Contributor
+
+Leading contributor to **Agentic Awesome Skills**, an open-source collection of AI agent skills, system instructions, workflows, and reusable context engineering resources.
+
+
 
 ---
 

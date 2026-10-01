@@ -138,20 +138,7 @@ I believe practical AI education should teach people not only how to write promp
 ---
 
 ## 🤝 Training, Speaking & Collaboration
-
-I am open to collaborating on:
-
-- AI training for businesses
-- AI training for colleges and universities
-- AI training for students
-- AI training for teachers
-- Corporate AI workshops
-- Prompt engineering workshops
-- AI developer workshops
-- AI awareness programs
-- AI conferences and technical events
-- Open-source AI projects
-- AgriTech and digital innovation projects
+ 
 
 ---
 
@@ -159,7 +146,7 @@ I am open to collaborating on:
 
 🌐 **Website:** [abhishekadhikari.com](https://abhishekadhikari.com)
 
-💼 **LinkedIn:** [Abhishek Adhikari](https://www.linkedin.com/in/whoisabhishek/)
+💼 **LinkedIn:** [Abhishek Adhikari](https://www.linkedin.com/in/whoisabhishek)
 
 💻 **GitHub:** [WHOISABHISHEKADHIKARI](https://github.com/WHOISABHISHEKADHIKARI)
 
